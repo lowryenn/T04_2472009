@@ -1,0 +1,271 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#pola{
+    background-image: repeating-conic-gradient( #1A8FE5 0% 25%, #E4E4ED 0% 50%);
+    background-position: 0 0,32px 32px;
+    background-size: 64px 64px;
+    background-color: #E4E4ED;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
+#daun1{
+    width: 50px;
+    height: 75px;
+}
+
+#daun2{
+    width: 200px;
+}
+
+#daun3{
+    width: 900px;
+    padding-right: 110px;
+    padding-left: 110px;
+}
+
+.bingo{
+    background-color: orangered;
+    border: 5px;
+    padding-left: 300px;
+    padding-right: 300px;
+    border-top-right-radius: 150px 15px;
+    border-bottom-left-radius: 150px 15px;
+    text-align: center;
+    width: 800px;
+    height: 45px;
+    margin-inline:30%;
+    font-weight: 800;
+}
+
+.identitas{
+    border: 10px solid green;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-weight: 800;
+}
+
+hr{
+    border-width: 2px;
+    border-color: blueviolet;
+}
+
+.w3{
+    color: blueviolet;
+}
+
+a{
+    color: blueviolet;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+.BCard{
+    display: grid;
+    grid-template-columns: repeat(5,95px);
+    gap: 5px;
+    margin: 75px auto;
+}
+
+.BC{
+    width: 80px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    height: 880px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+
+}
+
+.BC2{
+    width: 80px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.BC3{
+    width: 80px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.BC4{
+    width: 80px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.BC5{
+    width: 80px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.BC6{
+    width: 80px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.BCG{
+    width: 80px;
+    border-color: lime;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.a{
+    border-color: black;
+    border-style: dashed;
+    border-width: 10px;
+    height: 60px;
+}
+
+.orange{
+    background-color: orangered;
+}
+
+.blue{
+    background-color: lightskyblue;
+}
+
+.green{
+    background-color: seagreen;
+}
+
+.coklat{
+    background-color:mistyrose;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.LBoard{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    justify-content: center;
+    gap: 50px;
+}
+
+li{
+    padding-left: 250px;
+}
+
+.namanama{
+    text-align: left;
+}
+
+.namanama2{
+    text-align: left;
+}
+
+.SB{
+    height: 20px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    gap: 150px;
+}
+
+footer{
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    margin: auto;
+}
+
+.posisi{
+    align-items: center;
+    display: flex;
+}
+
+.posisi1{
+    align-items: center;
+    display: flex;
+}
+
+.posisi2{
+    align-items: center;
+    display: flex;
+}
+
+.posisi3{
+    align-items: center;
+    display: flex;
+}
+
+.posisi4{
+    align-items: center;
+    display: flex;
+}
+
+.posisi5{
+    align-items: center;
+    display: flex;
+}
+
+

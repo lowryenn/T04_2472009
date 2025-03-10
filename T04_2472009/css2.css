@@ -1,0 +1,80 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(pngtree-black-gold-certificate-frame-vector-png-image_12808296.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto;
+}
+
+.no{
+    font-size: 35px;
+    color: black;
+    padding-top: 80px;
+    padding-left: 550px;
+    padding-right: 60px;
+}
+
+.cer{
+    font-size: 60px;
+    color: #2d456e;
+    padding-left: 475px;
+}
+
+.this{
+    font-size: 30px;
+    color: #3f4650;
+    padding-left: 600px;
+    padding-bottom: 5px;
+}
+
+.nama{
+    font-size: 55px;
+    color: #951f1d;
+    padding-left: 530px;
+}
+
+hr{
+    margin-top: -50px;
+    width: 1300px; 
+}
+
+.for{
+    font-size: 30px;
+    color: #3f4650;
+    padding-left: 500px
+}
+
+.semester{
+    font-size: 30px;
+    color: #3f4650;
+    padding-left: 600px
+}
+
+.dosen{
+    font-size: 30px;
+    color: #951f1d;
+    padding-left: 723px;
+    padding-top: 50px;
+    padding-bottom: 18px;
+}
+
+.hr{
+    margin-top: -50px;
+    width: 450px; 
+}
+
+.basic{
+    font-size: 25px solid black;
+    letter-spacing: 2px;
+    padding-left: 640px;
+}
+
+.marnat{
+    font-size: 25px solid black;
+    letter-spacing: 2px;
+    padding-left: 645px;
+}
+
+
+
+
